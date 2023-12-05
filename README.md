@@ -1,4 +1,4 @@
-# Lucas Mauricio e Wembley Mariano (Projeto_Bimestral)
+# Lucas Mauricio e Wembley Mariano (Projeto_Bimestral) API Web
 desenvolvemos uma Web API REST que pode ser consumida livremente. O tema escolhido foi inspirado em uma plataforma de cursos. 
 
 A API foi construída usando Java Spring Boot e implementa operações CRUD (Create, Read, Update, Delete). Isso permite cadastrar, alterar, detalhar, excluir e listar todos os tópicos da aplicação.
